@@ -1,0 +1,18 @@
+a {
+  text-decoration: none;
+}
+.scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.justify {
+  text-align: justify;
+}
+.brandname {
+  color: black;
+  font-weight: 10px;
+}
+.markdown img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
