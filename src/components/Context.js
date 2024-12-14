@@ -32,23 +32,23 @@ export class Provider extends Component {
       },
       {
         id: 2,
-        qualification: "BTech in Electronics & Communication Engineering",
-        institutions: "CMR College of Engineering & Technology, Hyderabad",
-        cgpa: "9.3/10",
+        qualification: "Bachelors in information techonology",
+        institutions: "MVSR Engineering college, Hyderabad",
+        cgpa: "7/10",
         year_of_passing: "2018-2022",
       },
       {
         id: 3,
         qualification: "Intermediate (TSBIE Board)",
-        institutions: "Sri Gayatri Junior College, Hyderabad",
-        cgpa: "973/1000",
+        institutions: "Sri Chaitnaya Junior College, Hyderabad",
+        cgpa: "920/1000",
         year_of_passing: "2016-2018",
       },
       {
         id: 4,
         qualification: "Grade-10 (SSC Board)",
-        institutions: "City Talent High School, Suryapet",
-        cgpa: "9.8/10",
+        institutions: "MSR High School, Suryapet",
+        cgpa: "7.5/10",
         year_of_passing: "2016",
       },
     ],
@@ -162,21 +162,21 @@ export class Provider extends Component {
       {
         id: 1,
         title: "Project-1",
-        disc: "I build products. Just like this website",
+        disc: "I bulit a webpage",
         imageUrl:
           "https://www.agileit.com/wp-content/uploads/2018/11/Community-Programming.png",
       },
       {
         id: 2,
         title: "Project-2",
-        disc: "This is about java web development of a employee management System",
+        disc: "sales prediction using Machine Learning ",
         imageUrl:
           "https://i.pinimg.com/564x/a0/d6/ad/a0d6ad0d04b8619f12aa1f2f7d2c0c5a.jpg",
       },
       {
         id: 3,
         title: "Project-3",
-        disc: "This is about ParkingSlot indication using DIP",
+        disc: "Smart parking using Licence plate recognition",
         imageUrl:
           "https://i.pinimg.com/564x/18/cd/fe/18cdfe01db18f8fe2988a1b679afb42a.jpg",
       },

@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import Kalyan from "../asset/kalyan image.png";
+import Sathish from "../asset/satish image.jpeg";
 function Title(props) {
   const { name, leadText } = props;
   return (
@@ -12,8 +12,8 @@ function Title(props) {
         <div className="col-12 col-md-6">
           <img
             className="img-fluid rounded-circle w-75"
-            src={Kalyan}
-            alt="Kalyan"
+            src={Sathish}
+            alt="Sathish"
           />
         </div>
         <div className="col-12 col-md-6 pt-5">
@@ -27,8 +27,8 @@ function Title(props) {
   );
 }
 Title.defaultProps = {
-  name: "Kalyan P",
-  leadText: "Iam a Student of ECE Dept",
+  name: "Sathish Byagari",
+  leadText: "Iam a Student of IS Dept",
 };
 Title.prototypes = {
   name: PropTypes.string.isRequired,

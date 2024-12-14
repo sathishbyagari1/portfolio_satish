@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-md fixed-top bg-light">
       <div className="container my-2">
         <Link to="/" className="navbar-brand me-auto brandname">
-          Kalyan Papani
+          Sathish Byagari
         </Link>
         <Link to="/contact">
           <button className="btn btn-outline-info ml-auto mx-3">

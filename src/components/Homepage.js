@@ -8,7 +8,7 @@ import EducationSection from "./EducationSection";
 function HomePage() {
   return (
     <div>
-      <Title name=" Kalyan Papani" leadText="Iam a Student of ECE Department" />
+      <Title name="Sathish Byagari" leadText="Iam a Student of IS Department" />
       <EducationSection />
       <TechnologyStack />
       <ProjectSection />

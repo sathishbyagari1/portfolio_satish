@@ -28,7 +28,7 @@ function App() {
           <Switch>
             <Route exact path="/" component={HomePage}>
               <Title
-                name=" Kalyan Papani"
+                name=" Sathish Byagari"
                 leadText="Iam a Student at Pace University"
               />
               <EductionSection />

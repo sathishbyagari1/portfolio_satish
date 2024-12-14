@@ -38,25 +38,25 @@ function Footer() {
           <div className="col-12 col-md-4" py-3>
             <h5 className="text-info pb-3 ">Social</h5>
             <a
-              href="https://www.linkedin.com/in/kalyan-papani-44099b1a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+              href="https://www.linkedin.com/in/sathish-kumar-byagari-18181a293/"
               style={{ textDecoration: "none" }}
             >
               <i className="fab fa-linkedin text-light h1 d-block"></i>
             </a>
             <a
-              href="https://github.com/KalyanPapani64"
+              href="https://github.com/sathishbyagari1"
               style={{ textDecoration: "none" }}
             >
               <i className="fab fa-github text-light h1 d-block"></i>
             </a>
             <a
-              href="https://twitter.com/kalyanpapani"
+              href="https://x.com/Byagarisathish"
               style={{ textDecoration: "none" }}
             >
               <i className="fab fa-twitter text-light h1 d-block"></i>
             </a>
             <a
-              href="https://www.instagram.com/k_forkalyan?igsh=MWhtajIxdW85dnZrcA%3D%3D&utm_source=qr"
+              href="https://www.instagram.com/sathish_byagari/"
               style={{ textDecoration: "none" }}
             >
               <i className="fab fa-instagram text-light h1 d-block"></i>
@@ -64,7 +64,7 @@ function Footer() {
           </div>
         </div>
         <div className="col-12 text-secondary py-3">
-          <p>Copyright © Kalyan Papani 2024</p>
+          <p>Copyright © Sathish Byagari 2024</p>
         </div>
       </div>
     </footer>
